@@ -1,2 +1,0 @@
-# Animacion
-Umsa Infrormatica
