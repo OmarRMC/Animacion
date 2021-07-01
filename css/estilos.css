@@ -12,10 +12,10 @@ figure{
 
 body{
     background-image: url(../image/FondoOmar.png);
-    size:80%;
+    /*size:80%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 330vh;
+    background-size: 330vh;*/
     background-attachment: fixed;
 }
 
