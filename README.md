@@ -9,7 +9,7 @@ Carrera de Informatica
 ## Tecnologias 
 HTML5 y CSS3
 
-## Estructura de carpetas 
+### Estructura de carpetas 
 ├── css/             # Archivos fuente
 │   └── main.css     # Punto de entrada de la  css
 ├── img/             # imagenes
