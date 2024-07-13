@@ -19,7 +19,7 @@ HTML5 y CSS3
 ```
 ### Ejemplo de Uso
 
-```javascript
+```python
 const omar = new Animar3D();
 omar.mov3d();
 
