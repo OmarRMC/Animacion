@@ -17,9 +17,3 @@ HTML5 y CSS3
 └── index.html       # Punto de entrada  de la aplicacion 
 └── README.md        # Documentación del proyecto
 ```
-### Ejemplo de Uso
-
-```python
-const omar = new Animar3D();
-omar.mov3d();
-
